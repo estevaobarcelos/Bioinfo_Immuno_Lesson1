@@ -1,3 +1,4 @@
+>TLR4_CDS_Mus_musculus 
 atgatgcct ccctggctcc
 tggctaggac tctgatcatg gcactgttct tctcctgcct gacaccagga agcttgaatc
 cctgcataga ggtagttcct aatattacct accaatgcat ggatcagaaa ctcagcaaag
@@ -40,4 +41,5 @@ ttgaatatga gattgctcaa acatggcagt ttctgagcag ccgctctggc atcatcttca
 ttgtccttga gaaggttgag aagtccctgc tgaggcagca ggtggaattg tatcgccttc
 ttagcagaaa cacctacctg gaatgggagg acaatcctct ggggaggcac atcttctgga
 gaagacttaa aaatgcccta ttggatggaa aagcctcgaa tcctgagcaa acagcagagg
+
 aagaacaaga aacggcaact tggacctga
