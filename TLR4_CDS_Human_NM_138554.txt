@@ -1,3 +1,4 @@
+>TLR4_CDS_Homo_sapiens 
 atgatgtctg cctcgcgcct ggctgggact ctgatcccag ccatggcctt 
 cctctcctgc gtgagaccag aaagctggga gccctgcgtg gaggtggttc ctaatattac
 ttatcaatgc atggagctga atttctacaa aatccccgac aacctcccct tctcaaccaa
@@ -40,4 +41,5 @@ gcagtttctg agcagtcgtg ctggtatcat cttcattgtc ctgcagaagg tggagaagac
 cctgctcagg cagcaggtgg agctgtaccg ccttctcagc aggaacactt acctggagtg
 ggaggacagt gtcctggggc ggcacatctt ctggagacga ctcagaaaag ccctgctgga
 tggtaaatca tggaatccag aaggaacagt gggtacagga tgcaattggc aggaagcaac
+
 atctatctga
